@@ -5,6 +5,8 @@ The project focuses on using data structures in C++ and implementing various gra
 
 For the full report refer [Report.md](https://github.com/muskaan99/Map-Application/blob/main/REPORT.md)
 
+A video explanation is also available [here](https://youtu.be/7pxSmx4lVT4)
+
 
 
 # Tasks performed
